@@ -70,10 +70,6 @@ This project was brought to life through the collaboration and hard work of our 
 - Valdemar Beere
 - Emil Slettbakk
 
-## 8. Contact Information
-
-If you have any questions, suggestions, or feedback regarding our Lego Skittle Sorter Robot project, please feel free to contact us at [your@email.com].
-
 Thank you for your interest in our project, and we hope you enjoy building and operating your own Skittle Sorter Robot!
 
 
