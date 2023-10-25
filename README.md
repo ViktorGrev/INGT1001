@@ -6,14 +6,14 @@ Welcome to the README for our Lego Skittle Sorter Robot Project! In this project
 
 ## Table of Contents
 
-1. [Project Description](#project-description)
-2. [Components Used](#components-used)
-3. [Building Instructions](#building-instructions)
-4. [Operating Instructions](#operating-instructions)
-5. [Project Video](#project-video)
-6. [Troubleshooting](#troubleshooting)
-7. [Credits](#credits)
-8. [Contact Information](#contact-information)
+1. [Project Description](#Project-description)
+2. [Components Used](#Components-used)
+3. [Building Instructions](#Building-instructions)
+4. [Operating Instructions](#Operating-instructions)
+5. [Project Video](#Project-video)
+6. [Troubleshooting](#Troubleshooting)
+7. [Credits](#Credits)
+8. [Contact Information](#Contact-information)
 
 ## 1. Project Description
 
